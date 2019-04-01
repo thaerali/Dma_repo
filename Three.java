@@ -1,4 +1,4 @@
-public class 3
+public class Three
 { 
 	public void print()
 	{
